@@ -1,0 +1,4 @@
+- 👋 I’m @RichardGreaves and I work at the Hull York Medical School.
+- I am based on the University of York campus and am coding an agent-based 
+- simulation of thymic cell behaviour prior to the onset of Type 1 diabetes.
+- I am working alongside Professor Allison Green (also of HYMS).
